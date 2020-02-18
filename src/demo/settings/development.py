@@ -2,7 +2,7 @@ from .base import *
 from decouple import config
 
 
-DEBUG = Config('DEBUG', cast=bool)
+DEBUG = config('DEBUG', cast=bool)
 
 ALLOWED_HOSTS = ['127.0.0.1']
 
