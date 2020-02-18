@@ -1,7 +1,8 @@
 from .base import *
+from decouple import config
 
 
-DEBUG = True
+DEBUG = Config('DEBUG', cast=bool)
 
 ALLOWED_HOSTS = ['127.0.0.1']
 
@@ -53,3 +54,4 @@ DATABASES = {
 }
 
 # PAYMENT OPTION SECRET KEY, PUBLIC KEY
+# add to .env to secure keys
