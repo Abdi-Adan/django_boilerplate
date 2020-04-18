@@ -11,6 +11,7 @@ A basic django boilerplate project to make it easier to get started with a new p
 5. Adding package **python-decouple** for use with the **.env** file to hide crucial information when pushing your code to a public repository
 6. Added a renaming command in **core/management/commands** for use in renaming the base project from **demo** to whatever name you prefer
 7. Use **base.html** as your main html file
+8. Included is a default python .gitignore template
 
 ### STEPS TO USE THIS BOILERPLATE PROJECT
 
