@@ -1,4 +1,4 @@
-# .env
+.env
 .vscode
 core/__pycache__
 core/management/commands/__pycache__
