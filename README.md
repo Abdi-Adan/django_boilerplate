@@ -25,4 +25,7 @@ A basic django boilerplate project to make it easier to get started with a new p
       **\$ python manage.py rename <name_of_your_project>**
    * [ ] 🗃 6. Run **\$ python manage.py migrate** to initialize your development db.slite3 database
    * [ ] 🙈 7. Creare your own .env file in the project folder and add sensitive info like secret key and database config
-   * [ ] 🚀 8. Use core as your base app and get started
+   * [ ] 🚀 8. Use core as your base app and get started **Happy Coding**
+
+
+
