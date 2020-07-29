@@ -15,17 +15,15 @@ A basic django boilerplate project to make it easier to get started with a new p
 
 ### STEPS TO USE THIS BOILERPLATE PROJECT
 
-   * [ ] 📝 1. Download the code
-   * [ ] 🔎 2. Create a new or activate an existing virtual env depending on your usecase
-   * [ ] ➡️ 3. cd into the project directory
-   * [ ] ⌨️ 4. Install the dependencies listed in the requirements.txt file with the following command
-      **\$ pip install -r requirements.txt**
+   * [ ] Download the code
+   * [ ] Create a new or activate an existing virtual env depending on your usecase
+   * [ ] cd into the project directory
+   * [ ] Install the dependencies listed in the requirements.txt file with the following command **\$ pip install -r requirements.txt**
       _(you can of course bump the versions of any package you'd like in the requirements.txt file manually)_
-   * [ ] ✨ 5. Rename project from demo to your prefered name with the following command
-      **\$ python manage.py rename <name_of_your_project>**
-   * [ ] 🗃 6. Run **\$ python manage.py migrate** to initialize your development db.slite3 database
-   * [ ] 🙈 7. Creare your own .env file in the project folder and add sensitive info like secret key and database config
-   * [ ] 🚀 8. Use core as your base app and get started **Happy Coding**
+   * [ ] Rename project from demo to your prefered name with the following command **\$ python manage.py rename <name_of_your_project>**
+   * [ ] Run **\$ python manage.py migrate** to initialize your development db.slite3 database
+   * [ ] Creare your own .env file in the project folder and add sensitive info like secret key and database config
+   * [ ] Use core as your base app and get started **Happy Coding**
 
 
 
